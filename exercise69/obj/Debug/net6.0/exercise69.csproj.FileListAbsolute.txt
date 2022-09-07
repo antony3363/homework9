@@ -1,0 +1,15 @@
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\bin\Debug\net6.0\exercise69.exe
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\bin\Debug\net6.0\exercise69.deps.json
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\bin\Debug\net6.0\exercise69.runtimeconfig.json
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\bin\Debug\net6.0\exercise69.dll
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\bin\Debug\net6.0\exercise69.pdb
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\obj\Debug\net6.0\exercise69.csproj.AssemblyReference.cache
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\obj\Debug\net6.0\exercise69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\obj\Debug\net6.0\exercise69.AssemblyInfoInputs.cache
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\obj\Debug\net6.0\exercise69.AssemblyInfo.cs
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\obj\Debug\net6.0\exercise69.csproj.CoreCompileInputs.cache
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\obj\Debug\net6.0\exercise69.dll
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\obj\Debug\net6.0\refint\exercise69.dll
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\obj\Debug\net6.0\exercise69.pdb
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\obj\Debug\net6.0\exercise69.genruntimeconfig.cache
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework9\exercise69\obj\Debug\net6.0\ref\exercise69.dll
