@@ -4,6 +4,8 @@
 
 //M = 4; N = 8. -> 4, 6, 7, 8
 
+int a = 0;
+
 System.Console.WriteLine("Введите M");
 int M = int.Parse(Console.ReadLine()!);
 
@@ -14,10 +16,10 @@ System.Console.Write("->");
 
 for (int i = M; i <= N; i++)
 {
-    System.Console.Write(" " + i + ",");
+    a+=i;
 }
 
-
+System.Console.WriteLine(a);
 
 
 

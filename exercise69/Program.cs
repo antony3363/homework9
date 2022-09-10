@@ -5,19 +5,24 @@
 //A = 2; B = 3 -> 8
 
 
+int square(int A, int B)
+{
+    int C = 1;
+    for (int i = 0; i < B; i+=1)
+    {
+        C*=A;
+    }
+    return C;
+}   
 System.Console.WriteLine("Введите A");
 int A = int.Parse(Console.ReadLine()!);
 
 System.Console.WriteLine("Введите B");
 int B = int.Parse(Console.ReadLine()!);
 
-int C = A;
+int c = square(A, B); 
 
-for (int i = 1; i < B; i++)
-{
-    C*=A;
-}
-System.Console.WriteLine(C);
+System.Console.WriteLine(c);
 
 
 
